@@ -1,0 +1,11 @@
+flask
+flask_cors
+opencv-python
+ultralytics
+supervision
+vidgear
+numpy
+sqlalchemy
+requests
+certifi python-certifi-win32
+yt_dlp
